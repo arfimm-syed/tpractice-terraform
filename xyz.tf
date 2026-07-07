@@ -1,1 +1,2 @@
 variable "xyz" {}
+variable "vwx"{}
