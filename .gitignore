@@ -1,1 +1,6 @@
 abc.txt
+.terraform/
+*.tfstate
+*.tfstate.*
+!.terraform.lock.hcl
+*.tfvars.json
